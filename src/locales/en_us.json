@@ -1,0 +1,19 @@
+{
+    "header": {
+      "title": "Pokédex",
+      "search_placeholder": "Search by name..."
+    },
+    "loading": "Loading...",
+    "error": "An error occurred. Please try again later.",
+    "pokemon_details": {
+      "title": "Pokemon Details",
+      "id": "ID",
+      "types": "Types",
+      "weaknesses": "Weaknesses",
+      "resistances": "Resistances",
+      "attacks": "Attacks",
+      "mana_cost": "Mana cost",
+      "damage": "Damage",
+      "description": "Description"
+    }
+  }
